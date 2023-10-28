@@ -1,5 +1,5 @@
 # google-dorks
-common 1000 google dorks
+common 1000 google dorks:
 
 _news/news.php?id=
 -site:php.net -"The PHP Group" inurl:source inurl:url ext:pHp
